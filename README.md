@@ -1,2 +1,2 @@
 # ZhuRong-Fusion
-# ZhuRong Fusion is an Artificial Intellegence Model for the clean fusion energy
+# ZhuRong Fusion（祝融聚变） is an Artificial Intellegence Model for the clean fusion energy
